@@ -1,5 +1,5 @@
 # React-Express-BooksList
-## in phpmyadmin database
+## books data is stored in phpmyadmin database.
 
 React "Books list" project using Axios and Styled Components. </br>
 Backend is using Express, mysql and cors (dev only) to connect to localhost database(named in my case react_database) created in phpmyadmin (Xampp). </br>
