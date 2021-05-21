@@ -1,8 +1,6 @@
 # React-Express-BooksList
 ## in phpmyadmin database
 
-https://youtu.be/Eai1J9bjU0w
-
 React "Books list" project using Axios and Styled Components. </br>
 Backend is using Express, mysql and cors (dev only) to connect to localhost database(named in my case react_database) created in phpmyadmin (Xampp). </br>
 Table in database in named "books" and has only 4 columns:  </br>
@@ -22,7 +20,10 @@ Disclaimer: The music in the video does not belong to me and I do not receive ad
 
 ## Screenshots showcasing the project
 
-<img src="">
+<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_01.png">
+<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_02.png">
+<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_03.png">
+<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_04.png">
 
 ## To install dependencies and npm modules
 
