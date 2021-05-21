@@ -20,10 +20,10 @@ Disclaimer: The music in the video does not belong to me and I do not receive ad
 
 ## Screenshots showcasing the project
 
-<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_01.png">
-<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_02.png">
-<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_03.png">
-<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_04.png">
+<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_01.png" width="500">
+<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_02.png" width="500">
+<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_03.png" width="500">
+<img src="https://github.com/PiotrOtta/React-Express-BooksList/blob/main/screenshots/booklist_04.png" width="500">
 
 ## To install dependencies and npm modules
 
