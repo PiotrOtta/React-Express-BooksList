@@ -1,5 +1,5 @@
 # React-Express-BooksList
-## in database
+## in phpmyadmin database
 
 https://youtu.be/Eai1J9bjU0w
 
